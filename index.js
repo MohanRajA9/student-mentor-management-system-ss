@@ -71,7 +71,7 @@ app.get("/", (req, res) => {
     </ul> 
     </div>
 
-  Documentation : <button><a style="text-decoration:none; color:#3c4043" target="_blank" href="">Readme</a></button>
+  Documentation : <button><a style="text-decoration:none; color:#3c4043" target="_blank" href="https://github.com/MohanRajA9/student-mentor-management-system-ss/blob/main/README.md">Readme</a></button>
     </section>
     </body>
     </html>`);
